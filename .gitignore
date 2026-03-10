@@ -1,5 +1,4 @@
-flatbuild
-build.sh
+build
 .flatpak-builder
-flatrepo
+.repo
 *.flatpak
