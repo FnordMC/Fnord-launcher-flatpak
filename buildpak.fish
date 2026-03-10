@@ -1,4 +1,6 @@
 #!/bin/env fish
+# Copyright illy 2025-2026 - Licensed under OQL
+# https://oql.avris.it/license?c=Illy%20(fluoritByte)%7Cfluoritebyte.name
 # just to script to help me not have to ctrl + r the command lol
 echo this flatpak is for building and packaging the launcher
 set APPID xyz.fnordmc.FnordLauncher
