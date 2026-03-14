@@ -1,2 +1,2 @@
 The original license of flatpak build manifests is always ambiguious, and most of the time it can't really be classified under any license, but if prism's manifest is ever licensed under an actually license, i would immediately adopt it except for these files, that are fruits of my labor:
-    - buildpak.fish (licensed OQL v1.4 or later)
+    - buildpak.fish (licensed under Unlicense, because its a build script lmao)
